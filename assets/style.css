@@ -1,0 +1,23 @@
+.widget_sk_latest_posts .sk-posts-widget{ float:left; width:100%; font-size:14px;}
+.widget_sk_latest_posts .sk-posts-widget .sk-list{ float:left; width:100%;}
+.widget_sk_latest_posts .sk-posts-widget .sk-list a{ text-decoration:none;}
+.widget_sk_latest_posts .sk-posts-widget .sk-list .post-thumbnail{ float:left; padding-right:10px;}
+.widget_sk_latest_posts .sk-posts-widget .sk-list .post-content{ display:table-cell; vertical-align:top;}
+
+.sk-list{ margin-bottom:10px;}
+.sk-list .entry-title{ font-size:14px; margin-bottom:0px;}
+.sk-list .entry-meta{ font-size:12px; margin-bottom:0px;}
+.sk-list .post-thumbnail{ margin-bottom:10px;}
+
+/* Style 1 */
+.sk-posts-widget.style_3 .sk-list{     position: relative;
+    margin-bottom: 15px;
+    min-height: 100px;
+    overflow: hidden;}
+.sk-posts-widget.style_3 .sk-list .post-thumbnail{ padding:0px; margin-bottom:10px;}	
+.sk-posts-widget.style_3 img{ width:100%;}
+.sk-posts-widget.style_3 .post-content{ top:30%; width:100%; position:absolute; padding:20px 15px; color:#fff;} 
+.sk-posts-widget.style_3 .post-content .entry-meta,.sk-posts-widget.style_3 .post-content .entry-title a{ color:#fff;}
+.sk-posts-widget.style_3 .post-content .entry-meta{ padding-bottom:10px;}
+.sk-posts-widget.style_3 .post-content .entry-title a{ font-weight:bold; font-size:20px;}
+
